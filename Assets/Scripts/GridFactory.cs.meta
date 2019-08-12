@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a95eae5c24277f346a9f7a5dd5473f03
+timeCreated: 1526062694
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cellSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

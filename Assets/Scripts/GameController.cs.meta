@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 3ed3b2763d871144bbd724f86495a2b8
+timeCreated: 1526723993
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - onePrefab: {fileID: 1476891218059564, guid: 91100ede4bd77ac42a2b5dc912595086,
+      type: 2}
+  - twoPrefab: {fileID: 1958716441628652, guid: a50e153bf7dd106478ec29f018305489,
+      type: 2}
+  - threePrefab: {fileID: 1794144951361598, guid: 24f255ed67d04494998b817931b1abef,
+      type: 2}
+  - fourPrefab: {fileID: 1063171779724878, guid: 8d2f99055c4591f44a1274e3b488436b,
+      type: 2}
+  - fivePrefab: {fileID: 1644397668158446, guid: c23cd2b01fe1e0b4cb81492a4a1231cb,
+      type: 2}
+  - splitCirclePrefab: {fileID: 1898686873760024, guid: bde5db5280ecb8047b82ef206c131678,
+      type: 2}
+  - playerWonText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
